@@ -19,31 +19,30 @@ Beats Per Mash (aka BPM) was built using Rails 5, Javascript, and Jquery to solv
 
 
 ##User Stories:
-** Main Page**
-
+* Main Page
   * Given I open the website
   * When I am on the homepage
   * Then I should be able to begin playing
 
-** New User **
+* New User
 
   * Given I am a new user
   * When I am on the homepage
   * Then I should be able to sign up for an account
 
-** Registered User **
+* Registered User
 
   * Given I am a registered user
   * When I am on the homepage
   * Then I should be able to save my sounds
 
-** User profile **
+* User profile
 
   * Given I am a logged in user
   * When I am on my profile
   * I should be able to play my saved sounds
 
-** Room Page **
+* Room Page
 
   * Given I am in a Room
   * When I am in a Room
