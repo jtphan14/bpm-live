@@ -1,4 +1,5 @@
 //= require 'keypress'
+
 // when guest clicks save
 function guestSave() {
   $("#save-guest-button").click(function(e) {
@@ -43,8 +44,5 @@ function saveTrack() {
       clearCookies();
       track = [];
     })
-
   })
-
-
 }
