@@ -9,15 +9,6 @@ Beats Per Mash (aka BPM) was built using Rails 5, Javascript, and Jquery to solv
 * Front End: Javascript, jQuery
 * Plugins & Gems: js.cookie, jQuery-ui, devise, jquery_ujs, redis
 
-
-##Team Members:
-* Richie Yi
-* Thomas Farr
-* Jacqueline Phan
-* Michael Dumalag
-* Brad Harris
-
-
 ##User Stories:
 * Main Page
   * Given I open the website
